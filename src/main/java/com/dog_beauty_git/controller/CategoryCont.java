@@ -1,6 +1,7 @@
-package com.dog_beauty_git.controller.main;
+package com.dog_beauty_git.controller;
 
-import com.dog_beauty.model.Category;
+import com.dog_beauty_git.model.Category;
+import com.dog_beauty_git.controller.main.Attributes;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
